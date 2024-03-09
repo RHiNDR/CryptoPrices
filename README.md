@@ -1,1 +1,1 @@
-# CryptoPrices
+# OZCryptoPrices
