@@ -8,8 +8,8 @@ from USDTprices import USDT
 def main():
     bitcoin()
     ethereum()
-    usdt()
-    st_autorefresh(interval=10000)
+    # usdt()
+    st_autorefresh(interval=15000)
 
 
 def bitcoin():
